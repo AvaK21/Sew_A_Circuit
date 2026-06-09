@@ -13,7 +13,7 @@ This document covers the construction process and design considerations for the 
 
 ## Table of Contents
 - [Components](#components)
-- []
+- [Process](#process)
 
 
 
@@ -40,7 +40,7 @@ General
 Sewing pins  
 Scissors 
 
-Process
+## Process
 
 1. ## Experiment with the battery holder, a battery, and a LED. 
 
