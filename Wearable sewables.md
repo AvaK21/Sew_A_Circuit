@@ -19,7 +19,7 @@ This document covers the construction process and design considerations for the 
 
 ## Components
 
-Circuit  
+**Circuit**  
 Sewable battery holder (LilyPad)  
 Lilypad LEDs (x3)  
 Conductive thread (stainless steel)  
@@ -30,15 +30,16 @@ Jumper wires
 Clear non-gel nail polish  
 Sewing pins
 
-Bracelet   
+**Bracelet**   
 Cotton fabric (x2) (3 in x 8.75in)  
 Button  
 Sewing machine and sewing accessories  
 Needle 
 
-General  
+**General**  
 Sewing pins  
 Scissors 
+Seam ripper
 
 ## Process
 
